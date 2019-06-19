@@ -1,0 +1,44 @@
+body{
+   text-align: center;
+   background-color: #232323;
+   margin: 0;
+}
+h1{
+    color:white;
+    margin: 0;
+    background-color: lightcoral;
+}
+#stripe{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+
+    button{
+        background-color: inherit;
+        border: none;
+        color: lightcoral;
+        font-weight: 700;
+        letter-spacing: 1px;
+        font-size: inherit;
+        height: 100%;
+    }
+    
+}
+#message{
+    color: red;
+    display: inline-block;
+    width: 20%;
+}
+.squareContainer{
+    margin: 20px auto;
+    max-width: 600px;
+}
+.square{
+    padding-bottom: 30%;
+    float: left;
+    background-color: #232323;
+    margin: 1.66%;
+    width: 30%;
+    border-radius: 10%;
+    
+}
